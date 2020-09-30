@@ -6,4 +6,4 @@ var group__stan_msg_group =
     [ "stanMsg_GetData", "group__stan_msg_group.html#ga27477570a712b0d6315a823fc400b038", null ],
     [ "stanMsg_GetDataLength", "group__stan_msg_group.html#ga7d1e394a686bc25ab7376b7f28b9e777", null ],
     [ "stanMsg_Destroy", "group__stan_msg_group.html#gacd0059fb499963f5b2eae18053e5f74f", null ]
-];
+];//its store all these listed one in this variable
